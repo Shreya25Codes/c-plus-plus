@@ -13,7 +13,6 @@ public:
     void setPrice();
     void show();
 };
-
 void shop::setPrice()
 {
     for(int i=0;i<5;i++)
