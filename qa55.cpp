@@ -5,7 +5,6 @@ class shop
     int id[50]; // private data members
     float price[50];
     int c;
-
 public:
     void counter()
     {
